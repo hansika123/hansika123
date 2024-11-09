@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🎓 I am an undergraduate student at the University of Colombo School of Computing.
 - 🌱 I’m currently learning flutter and react.
-- 💻 Currently, I am working as an intern software engineer
+- 💻 Currently, I am working as an Associate Software Engineer
 
 <!--
 **hansika123/hansika123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
